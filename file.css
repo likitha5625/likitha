@@ -1,0 +1,63 @@
+css code:
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.head{
+    background-color: rgba(0, 0, 0, 0.849);
+}
+.fs-4{
+    color: blue;
+    font-weight: 600px;
+    transition: 0.3s ease;
+}
+.fs-4:hover{
+    color: blue;
+    text-shadow: 0 0 25px blue,
+                 0 0 50px blue;
+    transform: scale(1.1);             
+}                
+span{
+    color: blue;
+}
+
+.fs5:hover{
+    color: blue;
+    text-shadow: 0 0 25px green,
+                 0 0 50px blue;
+    transform: scale(1.1); 
+}
+.b1{
+    background-color:rgba(2, 2, 2, 0.842);
+}
+.pro{
+    background-color: blue;
+}
+img{
+    border-radius: 50%;
+    width: 400px;
+    border: 2px solid white;
+    transition: 0.3s ease;
+}
+img:hover{
+    color: blue;
+    text-shadow: 0 0 25px blue,
+                 0 0 50px blue;
+    transform: scale(1.1); 
+}
+.btn2{
+    padding: 15px 28px;
+    background-color: blue;
+    color:white;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 600px;
+}
+.fot{
+    color: white;
+    
+}
